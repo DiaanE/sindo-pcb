@@ -2594,8 +2594,4 @@ Wire Wire Line
 Wire Wire Line
 	9200 7150 9100 7150
 Connection ~ 9200 6050
-Text Notes 12200 10950 0    79   ~ 0
-Sindo Keyboard PCB
-Text Notes 13000 11050 0    51   ~ 0
-18 April 2021
 $EndSCHEMATC
