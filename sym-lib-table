@@ -2,4 +2,5 @@
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/libs/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri ${KIPRJMOD}/libs/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib)(options "")(descr ""))
+  (lib (name ESP32DEVKITV1)(type Legacy)(uri ${KIPRJMOD}/libs/ESP32DEVKITV1/ESP32DEVKITV1.lib)(options "")(descr ""))
 )
