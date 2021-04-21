@@ -2,4 +2,5 @@
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/libs/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/libs/random-keyboard-parts.pretty-master)(options "")(descr ""))
   (lib (name ESP32-DEVKITC-32D)(type KiCad)(uri ${KIPRJMOD}/libs/ESP32-DEVKITC-32D)(options "")(descr ""))
+  (lib (name ESP32DEVKITV1)(type KiCad)(uri ${KIPRJMOD}/libs/ESP32DEVKITV1)(options "")(descr ""))
 )
