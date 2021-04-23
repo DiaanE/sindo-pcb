@@ -2960,22 +2960,22 @@ Wire Wire Line
 Wire Wire Line
 	11400 5100 11400 5400
 $Comp
-L Connector_Generic:Conn_02x06_Top_Bottom J1
-U 1 1 60EF8272
+L Connector_Generic:Conn_02x06_Odd_Even J1
+U 1 1 60987DB5
 P 3850 9550
 F 0 "J1" H 3900 9967 50  0000 C CNN
-F 1 "Conn_02x06_Top_Bottom" H 3900 9876 50  0000 C CNN
+F 1 "Conn_02x06_Odd_Even" H 3900 9876 50  0000 C CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_2x06_P1.27mm_Vertical" H 3850 9550 50  0001 C CNN
 F 3 "~" H 3850 9550 50  0001 C CNN
 	1    3850 9550
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x06_Top_Bottom J2
-U 1 1 60FC0EF5
+L Connector_Generic:Conn_02x06_Odd_Even J2
+U 1 1 60A0B7A7
 P 7400 9500
 F 0 "J2" H 7450 9917 50  0000 C CNN
-F 1 "Conn_02x06_Top_Bottom" H 7450 9826 50  0000 C CNN
+F 1 "Conn_02x06_Odd_Even" H 7450 9826 50  0000 C CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_2x06_P1.27mm_Vertical" H 7400 9500 50  0001 C CNN
 F 3 "~" H 7400 9500 50  0001 C CNN
 	1    7400 9500
