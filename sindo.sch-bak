@@ -2609,29 +2609,27 @@ Text GLabel 4400 1250 1    50   Input ~ 0
 COL4
 Text GLabel 4900 1250 1    50   Input ~ 0
 COL5
-Text GLabel 3400 9350 0    50   Input ~ 0
-ROW0
-Text GLabel 3400 9450 0    50   Input ~ 0
-ROW1
-Text GLabel 3400 9550 0    50   Input ~ 0
-ROW2
-Text GLabel 3400 9650 0    50   Input ~ 0
-ROW3
-Text GLabel 3400 9750 0    50   Input ~ 0
-ROW4
 Text GLabel 3400 9850 0    50   Input ~ 0
+ROW0
+Text GLabel 3400 9650 0    50   Input ~ 0
+ROW2
+Text GLabel 3400 9550 0    50   Input ~ 0
+ROW3
+Text GLabel 3400 9450 0    50   Input ~ 0
+ROW4
+Text GLabel 3400 9350 0    50   Input ~ 0
 ROW5
-Text GLabel 4400 9350 2    50   Input ~ 0
-COL6
-Text GLabel 4400 9450 2    50   Input ~ 0
-COL7
-Text GLabel 4400 9550 2    50   Input ~ 0
-COL8
-Text GLabel 4400 9650 2    50   Input ~ 0
-COL9
-Text GLabel 4400 9750 2    50   Input ~ 0
-COL10
 Text GLabel 4400 9850 2    50   Input ~ 0
+COL6
+Text GLabel 4400 9750 2    50   Input ~ 0
+COL7
+Text GLabel 4400 9650 2    50   Input ~ 0
+COL8
+Text GLabel 4400 9550 2    50   Input ~ 0
+COL9
+Text GLabel 4400 9450 2    50   Input ~ 0
+COL10
+Text GLabel 4400 9350 2    50   Input ~ 0
 COL11
 $Comp
 L ESP32DEVKITV1:ESP32DEVKITV1 U1
@@ -2644,17 +2642,17 @@ F 3 "" H 12350 4300 50  0001 L BNN
 	1    12350 4300
 	0    -1   -1   0   
 $EndComp
-Text GLabel 11550 4400 0    50   Input ~ 0
-ROW5
-Text GLabel 11550 4300 0    50   Input ~ 0
-ROW4
-Text GLabel 11550 4200 0    50   Input ~ 0
-ROW3
-Text GLabel 11550 4100 0    50   Input ~ 0
-ROW2
-Text GLabel 11550 4000 0    50   Input ~ 0
-ROW1
 Text GLabel 11550 3900 0    50   Input ~ 0
+ROW5
+Text GLabel 11550 4000 0    50   Input ~ 0
+ROW4
+Text GLabel 11550 4100 0    50   Input ~ 0
+ROW3
+Text GLabel 11550 4200 0    50   Input ~ 0
+ROW2
+Text GLabel 11550 4300 0    50   Input ~ 0
+ROW1
+Text GLabel 11550 4400 0    50   Input ~ 0
 ROW0
 Text GLabel 11550 4500 0    50   Input ~ 0
 COL0
@@ -2764,30 +2762,6 @@ Wire Wire Line
 	3400 9750 3650 9750
 Wire Wire Line
 	3400 9850 3650 9850
-Text GLabel 6950 9300 0    50   Input ~ 0
-R0
-Text GLabel 6950 9400 0    50   Input ~ 0
-R1
-Text GLabel 6950 9500 0    50   Input ~ 0
-R2
-Text GLabel 6950 9600 0    50   Input ~ 0
-R3
-Text GLabel 6950 9700 0    50   Input ~ 0
-R4
-Text GLabel 6950 9800 0    50   Input ~ 0
-R5
-Text GLabel 7950 9300 2    50   Input ~ 0
-C6
-Text GLabel 7950 9400 2    50   Input ~ 0
-C7
-Text GLabel 7950 9500 2    50   Input ~ 0
-C8
-Text GLabel 7950 9600 2    50   Input ~ 0
-C9
-Text GLabel 7950 9700 2    50   Input ~ 0
-C10
-Text GLabel 7950 9800 2    50   Input ~ 0
-C11
 Wire Wire Line
 	7200 9300 6950 9300
 Wire Wire Line
@@ -2981,4 +2955,30 @@ F 3 "~" H 7400 9500 50  0001 C CNN
 	1    7400 9500
 	1    0    0    -1  
 $EndComp
+Text GLabel 7950 9500 2    50   Input ~ 0
+C8
+Text GLabel 7950 9600 2    50   Input ~ 0
+C9
+Text GLabel 7950 9700 2    50   Input ~ 0
+C10
+Text GLabel 7950 9800 2    50   Input ~ 0
+C11
+Text GLabel 7950 9400 2    50   Input ~ 0
+C7
+Text GLabel 7950 9300 2    50   Input ~ 0
+C6
+Text GLabel 6950 9600 0    50   Input ~ 0
+R3
+Text GLabel 6950 9500 0    50   Input ~ 0
+R2
+Text GLabel 6950 9400 0    50   Input ~ 0
+R1
+Text GLabel 6950 9700 0    50   Input ~ 0
+R4
+Text GLabel 6950 9800 0    50   Input ~ 0
+R5
+Text GLabel 6950 9300 0    50   Input ~ 0
+R0
+Text GLabel 3450 10100 0    50   Input ~ 0
+ROW1
 $EndSCHEMATC
